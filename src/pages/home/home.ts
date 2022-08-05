@@ -15,10 +15,10 @@ export class HomePage {
   items = [
     {
       name: "Milk",
-      quantity: 2
+      quantity: 1
     },
     {
-      name: "Bread",
+      name: "Soda",
       quantity: 1
     },
     {
@@ -26,7 +26,7 @@ export class HomePage {
       quantity: 3
     },
     {
-      name: "Sugar",
+      name: "Steak",
       quantity: 1
     },
   ];
